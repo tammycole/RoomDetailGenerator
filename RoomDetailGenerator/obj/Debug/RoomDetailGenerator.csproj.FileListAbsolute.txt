@@ -1,0 +1,6 @@
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\RoomDetailGenerator\RoomDetailGenerator\bin\Debug\RoomDetailGenerator.exe.config
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\RoomDetailGenerator\RoomDetailGenerator\bin\Debug\RoomDetailGenerator.exe
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\RoomDetailGenerator\RoomDetailGenerator\bin\Debug\RoomDetailGenerator.pdb
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\RoomDetailGenerator\RoomDetailGenerator\obj\Debug\RoomDetailGenerator.exe
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\RoomDetailGenerator\RoomDetailGenerator\obj\Debug\RoomDetailGenerator.pdb
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\RoomDetailGenerator\RoomDetailGenerator\obj\Debug\RoomDetailGenerator.csprojResolveAssemblyReference.cache
